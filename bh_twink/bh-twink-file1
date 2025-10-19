@@ -8,3 +8,5 @@ def lorem_ipsum():
     print("Lorem ipsum dolor sit amet, consectetur adipiscing elit.")
 
 # --- Add your code below or above this section ---
+
+Changes which are not affecting main content so shouldn't cause a merge conflict 
