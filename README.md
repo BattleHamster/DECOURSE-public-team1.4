@@ -8,7 +8,7 @@
 <ol style="list-style-type: decimal;">
 <li>Кристина  </li>
 <li>Антон  </li>
-<li>аЕлизавета  </li>
+<li>Елизавета  </li>
 </ol>
 </li>
 <li>You could add any additional info here</li>
