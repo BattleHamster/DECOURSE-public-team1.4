@@ -12,4 +12,4 @@
 
 </li>
 <li>You could add any additional info here</li>
-</ol>
+</ol> Конфликтный файл Anton
