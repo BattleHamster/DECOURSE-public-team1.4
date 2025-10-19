@@ -4,8 +4,8 @@
 
 
 <li>Team: 1.4  </li>
-<li>Team list:  
-<ol style="list-style-type: decimal;">
+<li>Team list: </li>  
+<ol type="1">
 <li>Кристина  </li>
 <li>Антон  </li>
 <li>Елизавета  </li>
